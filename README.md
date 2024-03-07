@@ -67,8 +67,8 @@ Pull requests are so named basically because you are asking to _pull_ changes fr
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
-## Fixed Answer, PULL REQUEST
-PULL pulls from your local repository to the remote repo so essentially you dont need write permissions to get your changes uploaded to a the source repo
+*** Fixed Answer, PULL REQUEST ****
+PULL pulls from a differnt branch repository to the remote repo so essentially you dont need write permissions to get your changes uploaded to a the source repo. but this is actually a fetch and a merge. and because you are asking someone else to pull your branch into thiers
 
 ### Create a local branch
 
